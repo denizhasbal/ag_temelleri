@@ -2,22 +2,22 @@
 
 ##IP-PORT-DNS-TCP-UDP Nedir
 
-    IP adresi,ağdaki cihazın dijital kimlik numarasıdır
+IP adresi,ağdaki cihazın dijital kimlik numarasıdır
 	     örn.192.168.1.10
 		 
-	PORT,cihazdaki hangi uygulama/hizmetle iletişim kurulacağı belirtir
+PORT,cihazdaki hangi uygulama/hizmetle iletişim kurulacağı belirtir
 	     örn: 80-HTTP
 		      443-HTTPS
 		IP-hangi cihazdak
 		PORT-o cihadaki hangi hizmetle
 		
-    DNS, web sitesi isimlerini IP adresine çevirir
+DNS, web sitesi isimlerini IP adresine çevirir
          örn:google.com-142.100....  (telefon rehberi gibi)
 		 
-    TCP,verinin karşı tarafa güvenilir ve sıralı şekilde ulaşmasını sağlar
+TCP,verinin karşı tarafa güvenilir ve sıralı şekilde ulaşmasını sağlar
 	    veri kaybolursa tekrar gönderebilir
 		
-	UDP,veriyi daha hızlı gönderir ama ulaşacağının garantisini vermez
+UDP,veriyi daha hızlı gönderir ama ulaşacağının garantisini vermez
 	
 	
 ##Paket Yapısı Nasıl Çalışır
