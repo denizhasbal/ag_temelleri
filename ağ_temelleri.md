@@ -21,8 +21,7 @@ UDP,veriyi daha hızlı gönderir ama ulaşacağının garantisini vermez
 	
 	
 ##Paket Yapısı Nasıl Çalışır
-
-   Gönderdiğimiz veri ağda tek parça halinde gitmek yerine küçük parçalara(paket)ayrılabilir
+  Gönderdiğimiz veri ağda tek parça halinde gitmek yerine küçük parçalara(paket)ayrılabilir
         
 		veri-paketlere ayrılır-ağ üzerinden gönderilir-karşı tarafta birleştirilir
 		
